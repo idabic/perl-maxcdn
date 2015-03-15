@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 
 #MaxCDN API Sample Code - Perl
-#Version 1.1a
+#Version 2.0
 
 package MaxCDN;
 use strict;
