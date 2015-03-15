@@ -28,7 +28,7 @@ Do you like building cool stuff?  Do APIs keep you up at night? We're looking fo
 
 `unzip master.zip`
 
-`cd perl-maxcdn/`
+`cd perl-maxcdn-master/`
 
 ## Usage
 ```perl
